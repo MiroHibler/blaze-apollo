@@ -1,6 +1,6 @@
 {
   "name": "blaze-apollo",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Blaze client for Apollo",
   "main": "build/src/index.js",
   "scripts": {
@@ -31,7 +31,7 @@
     "apollo-client": "^0.5.0",
     "graphql": "^0.7.0",
     "graphql-tag": "^0.1.9",
-    "rxjs": "5.0.0-beta.12",
+    "rxjs": "^5.0.0-beta.12 || ^5.0.0-rc.1",
     "tslint": "^3.7.4",
     "typed-graphql": "^1.0.2",
     "typescript": "^2.0.3"
