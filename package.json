@@ -1,6 +1,6 @@
 {
   "name": "blaze-apollo",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Blaze client for Apollo",
   "main": "build/src/index.js",
   "scripts": {
@@ -18,17 +18,17 @@
   },
   "homepage": "https://github.com/apollostack/blaze-apollo#readme",
   "peerDependencies": {
-    "apollo-client": "^0.4.20",
+    "apollo-client": "^0.5.0",
     "rxjs": "^5.0.0-beta.12"
   },
   "dependencies": {
-    "apollo-client-rxjs": "^0.1.0"
+    "apollo-client-rxjs": "^0.2.2"
   },
   "devDependencies": {
     "@types/chai": "^3.4.33",
     "@types/isomorphic-fetch": "0.0.30",
     "@types/node": "^6.0.38",
-    "apollo-client": "^0.4.20",
+    "apollo-client": "^0.5.0",
     "graphql": "^0.7.0",
     "graphql-tag": "^0.1.9",
     "rxjs": "5.0.0-beta.12",
